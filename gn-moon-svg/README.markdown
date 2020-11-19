@@ -1,4 +1,4 @@
-# GN-moon-SVG-updated
+# Animation: "Good Night Moon"
 
 A SVG animation, using GreenSock (GSAP), and SVG drawing with Sketch.
 
