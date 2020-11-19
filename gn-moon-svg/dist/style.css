@@ -1,0 +1,14 @@
+.container {
+  display: -webkit-box;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.title {
+  margin: 1rem 0;
+}
